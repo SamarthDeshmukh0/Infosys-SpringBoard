@@ -55,7 +55,7 @@ Python ML service communicates with the backend to provide forecast results.
 
 ## 🗂️ Project Architecture
 
-text
+'''text
 React Frontend
       |
 Spring Boot Backend (REST APIs)
