@@ -62,8 +62,8 @@ Spring Boot Backend (REST APIs)
       |
 MySQL Database
       |
-Python ML Service (Forecast Engine)
-'''
+Python ML Service (Forecast Engine)'''
+
 
 ---
 
