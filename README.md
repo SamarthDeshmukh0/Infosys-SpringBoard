@@ -64,8 +64,7 @@ MySQL Database
       |
 Python ML Service (Forecast Engine)
 
+---
 
 ## 🎥 Demo Video
 [👉 View Project Demo](https://drive.google.com/file/d/148Q_F3eb_N06r-YZ66CxY0MFOo9dzRLA/view)
-
-
